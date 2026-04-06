@@ -120,4 +120,3 @@ brainstorming / simple
 
 ---
 
-*Curated by Zenvix Studios*
